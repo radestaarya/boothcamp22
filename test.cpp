@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
     puts("Hello World");
-    puts("hai aefaewf");
+    puts("hai a");
 
     return 0;
 }
